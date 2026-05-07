@@ -8,6 +8,8 @@ A scalable **Flutter mobile application** built using **Clean Architecture + Fea
 
 - 🔗 Base URL: https://fitness-planner-backend-vtk7.onrender.com/
 - 📘 Swagger Docs: https://fitness-planner-backend-vtk7.onrender.com/api-docs
+- 📱 APK : https://drive.google.com/file/d/1s-gosANpHlHvoWv6ZDWAXP8cIyngolxe/view?usp=drive_link
+- 📹 Walkthrough Video : https://drive.google.com/file/d/1c2GRRtdsHw6oeNy4-ftKR2oUDiJ-Xuyl/view?usp=sharing
 
 ---
 
