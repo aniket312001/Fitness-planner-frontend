@@ -95,7 +95,6 @@ counter_app/
 - Bloc (State Management)
 - Dio (Networking)
 - GetIt (DI)
-- Secure Storage
 - REST API Backend (Node.js + PostgreSQL)
 
 ---
